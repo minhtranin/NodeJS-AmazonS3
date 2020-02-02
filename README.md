@@ -11,7 +11,7 @@ BUCKETNAME = bucket name
 ENDPOINT = endpoint position put s3 service (not required)
 ```
 ## Use
-### Upload.
+### 1.Upload.
 ``` bash
 /**
          * function to upload  ,will be throw error if exist
