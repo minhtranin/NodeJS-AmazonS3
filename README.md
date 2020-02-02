@@ -1,5 +1,5 @@
-# NodeJS-AmazonS3
-easible interact with api aws
+# NodeJS-AmazonS3-AdonisJS
+easible interact with api aws in adonisJS
 1. Set up env
 2. extend class AmazonS3
 ## Setup
