@@ -29,3 +29,11 @@ ENDPOINT = endpoint position put s3 service (not required)
           return response.respondWithError(err)
         }
 ```
+### 2.Delete
+### 3.Update
+### 4.Download
+### 5.GetList
+### 6.AddPolicy
+### 7.AddBucket
+### 8.DeleteBucket
+### 9.GetLink
